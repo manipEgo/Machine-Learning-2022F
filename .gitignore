@@ -110,3 +110,5 @@ venv.bak/
 dmypy.json
 Lab8.Convolutional Neural Network/data/
 .vscode/
+Lab10.SVM/Lab10.Assignment/samples/
+Lab10.SVM/Lab10.Assignment/videos/
